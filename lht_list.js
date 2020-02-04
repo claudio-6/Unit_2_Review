@@ -10,6 +10,9 @@
    The eventPrices array contains the cost of the events
 */
 
+
+
+
 var eventDates = ["July 29, 2018 11:00:00", "July 30, 2018 19:00:00", "July 31, 2018 19:30:00", 
                  "August 2, 2018 19:00:00", "August 3, 2018 20:00:00", "August 4, 2018 19:30:00", 
                  "August 5, 2018 11:00:00", "August 6, 2018 19:00:00", "August 8, 2018 19:00:00", 
